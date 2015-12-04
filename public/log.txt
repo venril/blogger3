@@ -8,3 +8,4 @@
 [warning];2015-12-02;12:05:38;0;Fausse Exception;C:\wamp\www\blogger\app\src\User\Model\Db\Mysql\User.php;38
 [warning];2015-12-02;12:05:56;0;Fausse Exception;C:\wamp\www\blogger\app\src\User\Model\Db\Mysql\User.php;38
 [warning];2015-12-02;12:06:24;0;Fausse Exception;C:\wamp\www\blogger\app\src\User\Model\Db\Mysql\User.php;38
+[fatal];2015-12-03;16:49:34;1045;SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root'@'@localhost' (mot de passe: NON);C:\wamp\www\blogger\library\Aston\Db\Connection.php;36
